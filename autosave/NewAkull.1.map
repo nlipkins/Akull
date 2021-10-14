@@ -4,7 +4,6 @@
 {
 "mapversion" "220"
 "classname" "worldspawn"
-"wad" "C:/Users/natha/quake-leveldesign-starterkit-master/quake-leveldesign-starterkit-master/wads/prototype_1_3.wad"
 // brush 0
 {
 ( -64 -64 -16 ) ( -64 -63 -16 ) ( -64 -64 -15 ) __TB_empty [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -50,10 +49,4 @@
 ( -64 800 208 ) ( -65 800 208 ) ( -64 800 207 ) __TB_empty [ -6.123233995736766e-17 1.2246467991473532e-16 -1 0 ] [ 1 0 -6.123233995736766e-17 0 ] 90 1 1
 ( -64 368 208 ) ( -64 368 207 ) ( -64 367 208 ) __TB_empty [ 6.123233995736766e-17 -1.2246467991473532e-16 1 0 ] [ 7.498798913309288e-33 1 1.2246467991473532e-16 0 ] 180 1 1
 }
-}
-// entity 1
-{
-"classname" "info_player_deathmatch"
-"origin" "0 48 40"
-"angle" "90"
 }
