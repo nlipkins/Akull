@@ -153,5 +153,5 @@
 // entity 1
 {
 "classname" "info_player_deathmatch"
-"origin" "16 0 40"
+"origin" "32 0 40"
 }
