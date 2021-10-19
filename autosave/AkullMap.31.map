@@ -2303,23 +2303,31 @@
 }
 // entity 38
 {
-"classname" "weapon_nailgun"
-"origin" "1488 384 16"
+"classname" "item_armor1"
+"origin" "1376 240 16"
 }
 // entity 39
 {
-"classname" "item_armor1"
-"origin" "1376 240 16"
-"angle" "90"
+"classname" "weapon_nailgun"
+"origin" "1488 384 16"
 }
 // entity 40
 {
-"classname" "item_armor1"
-"origin" "1416.57 -248.579 16"
-"angle" "240"
+"classname" "weapon_nailgun"
+"origin" "1488 384 16"
 }
 // entity 41
 {
+"classname" "item_armor1"
+"origin" "1376 240 16"
+}
+// entity 42
+{
+"classname" "item_armor1"
+"origin" "1376 -400 16"
+}
+// entity 43
+{
 "classname" "weapon_nailgun"
-"origin" "1472 -400 16"
+"origin" "1488 -256 16"
 }
