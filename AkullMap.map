@@ -1892,168 +1892,191 @@
 }
 // entity 1
 {
-"classname" "info_player_start"
-"origin" "80 0 40"
-}
-// entity 2
-{
-"classname" "info_player_start"
-"origin" "2752 -16 40"
-"angle" "180"
-}
-// entity 3
-{
-"classname" "info_player_start"
-"origin" "1424 -1392 40"
-"angle" "90"
-}
-// entity 4
-{
-"classname" "info_player_start"
-"origin" "1424 1392 40"
-"angle" "270"
-}
-// entity 5
-{
 "classname" "item_armor1"
 "origin" "1248 792 144"
 }
-// entity 6
+// entity 2
 {
 "classname" "weapon_nailgun"
 "origin" "888 768 192"
 }
-// entity 7
+// entity 3
 {
 "classname" "weapon_lightning"
 "origin" "704 176 192"
 }
-// entity 8
+// entity 4
 {
 "classname" "item_armor1"
 "origin" "680 512 144"
 }
-// entity 9
+// entity 5
 {
 "classname" "weapon_rocketlauncher"
 "origin" "1448 0 48"
 }
-// entity 10
+// entity 6
 {
 "classname" "weapon_lightning"
 "origin" "1136 -376 192"
 }
-// entity 11
+// entity 7
 {
 "classname" "item_armor2"
 "origin" "1248 -472 192"
 }
-// entity 12
+// entity 8
 {
 "classname" "item_health"
 "origin" "1240 -864 144"
 }
-// entity 13
+// entity 9
 {
 "classname" "item_shells"
 "origin" "888 -144 144"
 }
-// entity 14
+// entity 10
 {
 "classname" "item_armorInv"
 "origin" "1384 -48 48"
 }
-// entity 15
+// entity 11
 {
 "classname" "item_shells"
 "origin" "928 -144 144"
 }
-// entity 16
+// entity 12
 {
 "classname" "item_shells"
 "origin" "928 112 144"
 }
-// entity 17
+// entity 13
 {
 "classname" "item_shells"
 "origin" "888 112 144"
 }
-// entity 18
+// entity 14
 {
 "classname" "item_shells"
 "origin" "1240 720 144"
 }
-// entity 19
+// entity 15
 {
 "classname" "item_shells"
 "origin" "2096 152 144"
 }
-// entity 20
+// entity 16
 {
 "classname" "item_armor1"
 "origin" "2168 176 144"
 "angle" "270"
 }
-// entity 21
+// entity 17
 {
 "classname" "weapon_nailgun"
 "origin" "2056 528 192"
 "angle" "270"
 }
-// entity 22
+// entity 18
 {
 "classname" "item_armor1"
 "origin" "1968 744 144"
 "angle" "270"
 }
-// entity 23
+// entity 19
 {
 "classname" "item_shells"
 "origin" "1568 464 144"
 }
-// entity 24
+// entity 20
 {
 "classname" "item_shells"
 "origin" "1568 504 144"
 }
-// entity 25
+// entity 21
 {
 "classname" "weapon_lightning"
 "origin" "1632 720 192"
 "angle" "270"
 }
-// entity 26
+// entity 22
 {
 "classname" "item_shells"
 "origin" "2064 152 144"
 }
-// entity 27
+// entity 23
 {
 "classname" "item_rockets"
 "origin" "1368 32 48"
 }
-// entity 28
+// entity 24
 {
 "classname" "item_armor2"
 "origin" "2184 -208 192"
 }
-// entity 29
+// entity 25
 {
 "classname" "item_health"
 "origin" "2064 -216 192"
 }
-// entity 30
+// entity 26
 {
 "classname" "item_shells"
 "origin" "2064 -320 192"
 }
-// entity 31
+// entity 27
 {
 "classname" "weapon_supershotgun"
 "origin" "1688 -752 144"
 }
-// entity 32
+// entity 28
 {
 "classname" "weapon_supershotgun"
 "origin" "1840 -216 144"
+}
+// entity 29
+{
+"classname" "info_player_deathmatch"
+"origin" "64 0 40"
+}
+// entity 30
+{
+"classname" "info_player_deathmatch"
+"origin" "1424 -1392 40"
+"angle" "90"
+}
+// entity 31
+{
+"classname" "info_player_deathmatch"
+"origin" "2752 0 40"
+"angle" "180"
+}
+// entity 32
+{
+"classname" "info_player_deathmatch"
+"origin" "1424 1376 40"
+"angle" "270"
+}
+// entity 33
+{
+"classname" "info_player_deathmatch"
+"origin" "720 592 168"
+"angle" "330"
+}
+// entity 34
+{
+"classname" "info_player_deathmatch"
+"origin" "640 -416 176"
+}
+// entity 35
+{
+"classname" "info_player_deathmatch"
+"origin" "1838.07 815.482 168"
+"angle" "286"
+}
+// entity 36
+{
+"classname" "info_player_deathmatch"
+"origin" "2032 -688 168"
+"angle" "120"
 }
