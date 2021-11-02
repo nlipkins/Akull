@@ -3137,3 +3137,122 @@
 "classname" "light_torch_small_walltorch"
 "origin" "1172 -340 204"
 }
+// entity 158
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1268 77 252"
+}
+// entity 159
+{
+"classname" "light_torch_small_walltorch"
+"origin" "971 124 268"
+"angle" "90"
+}
+// entity 160
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1243 100 268"
+"angle" "90"
+}
+// entity 161
+{
+"classname" "light_torch_small_walltorch"
+"origin" "827 124 268"
+"angle" "90"
+}
+// entity 162
+{
+"classname" "light_torch_small_walltorch"
+"origin" "699 124 268"
+"angle" "90"
+}
+// entity 163
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1141 836 268"
+"angle" "270"
+}
+// entity 164
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1013 836 268"
+"angle" "270"
+}
+// entity 165
+{
+"classname" "light_torch_small_walltorch"
+"origin" "869 836 268"
+"angle" "270"
+}
+// entity 166
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1268 203 268"
+"angle" "180"
+}
+// entity 167
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1268 379 268"
+"angle" "180"
+}
+// entity 168
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1268 731 268"
+"angle" "180"
+}
+// entity 169
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1268 539 268"
+"angle" "180"
+}
+// entity 170
+{
+"classname" "light_torch_small_walltorch"
+"origin" "636 293 268"
+"angle" "0"
+}
+// entity 171
+{
+"classname" "light_torch_small_walltorch"
+"origin" "668 597 268"
+"angle" "0"
+}
+// entity 172
+{
+"classname" "light_torch_small_walltorch"
+"origin" "636 469 268"
+"angle" "0"
+}
+// entity 173
+{
+"classname" "light_torch_small_walltorch"
+"origin" "636 165 268"
+"angle" "0"
+}
+// entity 174
+{
+"classname" "light_torch_small_walltorch"
+"origin" "768.707 758.364 268"
+"angle" "315"
+}
+// entity 175
+{
+"classname" "light_torch_small_walltorch"
+"origin" "843.101 649.172 204"
+"angle" "255"
+}
+// entity 176
+{
+"classname" "light_torch_small_walltorch"
+"origin" "980 648 204"
+"angle" "255"
+}
+// entity 177
+{
+"classname" "light_torch_small_walltorch"
+"origin" "818.828 715.101 204"
+"angle" "165"
+}

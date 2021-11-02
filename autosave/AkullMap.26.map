@@ -1684,3 +1684,13 @@
 "classname" "item_armorInv"
 "origin" "1384 -48 48"
 }
+// entity 15
+{
+"classname" "item_shells"
+"origin" "928 -144 144"
+}
+// entity 16
+{
+"classname" "item_shells"
+"origin" "928 112 144"
+}
