@@ -2963,3 +2963,33 @@
 "origin" "2125 -75 168"
 "angle" "180"
 }
+// entity 127
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1516 -84 60"
+}
+// entity 128
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1516 76 60"
+}
+// entity 129
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1492 92 60"
+}
+// entity 130
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1348 92 60"
+}
+// entity 131
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1332 68 60"
+}
+// entity 132
+{
+"classname" "light_torch_small_walltorch"
+"origin" "1332 -92 60"
+}
