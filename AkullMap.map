@@ -2924,3 +2924,27 @@
 "origin" "596 -154 102"
 "angle" "45"
 }
+// entity 119
+{
+"classname" "light_torch_small_walltorch"
+"origin" "671 77 168"
+"angle" "0"
+}
+// entity 120
+{
+"classname" "light_torch_small_walltorch"
+"origin" "957 77 248"
+"angle" "270"
+}
+// entity 121
+{
+"classname" "light_torch_small_walltorch"
+"origin" "671 -99 168"
+"angle" "0"
+}
+// entity 122
+{
+"classname" "light_torch_small_walltorch"
+"origin" "957 -99 248"
+"angle" "270"
+}
