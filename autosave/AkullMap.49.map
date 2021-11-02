@@ -3005,33 +3005,3 @@
 "origin" "1337.18 834.306 156"
 "angle" "285"
 }
-// entity 135
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1322.6 139.253 156"
-"angle" "345"
-}
-// entity 136
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1322.6 523.253 156"
-"angle" "345"
-}
-// entity 137
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1506.32 534.82 156"
-"angle" "195"
-}
-// entity 138
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1506.32 150.82 156"
-"angle" "195"
-}
-// entity 139
-{
-"classname" "light_torch_small_walltorch"
-"origin" "1549 -75 248"
-"angle" "270"
-}
